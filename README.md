@@ -24,6 +24,11 @@ In Houston: **Add from GitHub** → paste this repo's URL. Houston
 installs the agent into its own workspace and seeds the empty indexes
 so the dashboard opens clean.
 
+On first open, the Activity tab shows an **"Onboard me"** card in the
+"Needs you" column — click it and send any message to start the
+3-question setup (ICP, product + pitch, voice). After that the agent
+is ready to work.
+
 ## First prompts
 
 - `Onboard me` — 3-question setup (~90 seconds).

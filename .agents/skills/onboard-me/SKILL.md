@@ -7,8 +7,15 @@ description: Use when the user explicitly says "onboard me" / "set me up" / "let
 
 ## When to use
 
-First-run setup. Triggered by "onboard me" / "set me up" / "let's get
-started", OR about-to-do-real-work and `config/profile.json` is missing.
+First-run setup. Triggered by:
+- "onboard me" / "set me up" / "let's get started"
+- The user opens the pre-seeded "Onboard me" activity card (from the
+  Needs-you column) and sends any short message to kick it off
+  (including "go", "ok", "start", "yes", or even an empty-seeming
+  prompt) — when `config/profile.json` is missing, treat any such
+  short opener as a signal to run me.
+- About-to-do-real-work and `config/profile.json` is missing.
+
 Only run ONCE unless the user explicitly re-invokes.
 
 ## Principles

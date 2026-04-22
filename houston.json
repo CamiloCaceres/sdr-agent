@@ -19,6 +19,7 @@
     "replies.json": "[]",
     "calls.json": "[]",
     "reports.json": "[]",
-    "battlecards.json": "[]"
+    "battlecards.json": "[]",
+    ".houston/activity.json": "[{\"id\":\"5d1a0c7e-b4a3-4a6e-9f2d-0a1b7c6e8f90\",\"title\":\"Onboard me — 3 quick questions (~90s)\",\"description\":\"Click this card, then send any message to kick off onboarding. I'll ask three things: 1) your ICP  2) your product + pitch  3) your voice. Best modality per topic: connected app via Composio (Integrations tab) > file/URL > paste. After this I can enrich leads, score fit, draft outreach, triage replies, capture calls, and more.\",\"status\":\"needs_you\"}]"
   }
 }

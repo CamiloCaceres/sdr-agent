@@ -8,9 +8,16 @@ every outbound and every hand-off.
 
 ## To start
 
-If `config/profile.json` is missing I'll run `onboard-me` (3 questions,
-~90 seconds) or ask one tight question just-in-time the first time real
-work needs context. I learn by doing.
+On first install you'll see an **"Onboard me"** card waiting in the
+"Needs you" column of the Activity tab. Click it and send anything —
+I'll kick off `onboard-me` (3 questions, ~90 seconds) and write what
+I learn to `config/`. If you skip it and jump to a real task, I'll
+ask one tight question just-in-time and keep going.
+
+**Trigger rule:** if the first user message in a session is short /
+empty / just "go" / "ok" / "start" AND `config/profile.json` is
+missing, treat it as "start onboarding" and run the `onboard-me`
+skill immediately.
 
 ## My skills
 

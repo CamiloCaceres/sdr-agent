@@ -1,0 +1,24 @@
+{
+  "id": "sdr",
+  "name": "SDR",
+  "description": "Your AI Sales Development Rep. Enriches contacts, scores ICP fit, finds warm paths, drafts research-grounded outreach, triages replies, captures call notes, analyzes discovery calls, builds prospect-specific battlecards, and generates pipeline reports. Skills modeled on validated sales-automation workflow shapes. Never sends without approval; never closes deals.",
+  "icon": "UserRound",
+  "category": "business",
+  "author": "Houston",
+  "tags": ["sales", "sdr", "bdr", "outbound", "prospecting", "outreach", "enrichment", "pipeline"],
+  "tabs": [
+    { "id": "activity", "label": "Activity", "builtIn": "board", "badge": "activity" },
+    { "id": "job-description", "label": "Job Description", "builtIn": "job-description" },
+    { "id": "routines", "label": "Routines", "builtIn": "routines" },
+    { "id": "files", "label": "Files", "builtIn": "files" },
+    { "id": "integrations", "label": "Integrations", "builtIn": "integrations" }
+  ],
+  "defaultTab": "activity",
+  "agentSeeds": {
+    "leads.json": "[]",
+    "replies.json": "[]",
+    "calls.json": "[]",
+    "reports.json": "[]",
+    "battlecards.json": "[]"
+  }
+}

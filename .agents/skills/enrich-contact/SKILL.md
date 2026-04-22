@@ -5,10 +5,9 @@ description: Use when the user names a person / company / email / profile URL an
 
 # Enrich Contact
 
-Modeled on the "contact enrichment + CRM sync + team notify" workflow
-pattern — a single pipeline that takes a thin signal (a name, an email,
-a profile URL) and turns it into a decision-ready dossier pushed to the
-places you actually work.
+A single pipeline that takes a thin signal (a name, an email, a profile
+URL) and turns it into a decision-ready dossier pushed to the places
+you actually work.
 
 ## When to use
 

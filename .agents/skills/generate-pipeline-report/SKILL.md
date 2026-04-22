@@ -5,9 +5,8 @@ description: Use when the user asks "what's my pipeline" / "how did the week go"
 
 # Generate Pipeline Report
 
-Modeled on the "CRM reporting agent" workflow shape — not a raw dump,
-a narrative that surfaces what's moving, what's stuck, and what needs
-attention.
+Not a raw dump — a narrative that surfaces what's moving, what's
+stuck, and what needs attention.
 
 ## When to use
 

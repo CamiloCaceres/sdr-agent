@@ -5,8 +5,9 @@ description: Use when the user asks for "warm intros" / "who do I know at {compa
 
 # Find References
 
-Modeled on the "reference finder agent" shape — pulls from the user's
-own network surfaces to find warm paths instead of cold-starting.
+Pulls from the user's own network surfaces — first-degree connections,
+past colleagues, existing customers — to find warm paths instead of
+cold-starting.
 
 ## When to use
 

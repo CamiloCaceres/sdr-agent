@@ -5,8 +5,7 @@ description: Use when a new reply arrives via any Composio-connected inbox (pull
 
 # Triage Inbound Reply
 
-Modeled on the "automated email draft responses" workflow shape —
-classify inbound, pull context, draft a voice-matched response, queue
+Classify inbound, pull context, draft a voice-matched response, queue
 for human approval.
 
 ## When to use

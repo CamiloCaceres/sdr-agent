@@ -5,9 +5,8 @@ description: Use when the user asks to draft outreach / "write an email to {lead
 
 # Draft Grounded Email
 
-Modeled on the "search-grounded email" workflow shape — every draft is
-anchored in a real, cited, recent signal about the prospect. No
-"I noticed your company is in {industry}" filler.
+Every draft is anchored in a real, cited, recent signal about the
+prospect. No "I noticed your company is in {industry}" filler.
 
 ## When to use
 

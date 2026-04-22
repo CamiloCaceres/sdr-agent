@@ -5,8 +5,7 @@ description: Use when the user pastes a meeting transcript, drops a recording/tr
 
 # Capture Call Notes
 
-Modeled on the "meeting transcript enrichment" workflow shape — turn a
-raw transcript into structured, queryable, CRM-ready notes.
+Turn a raw transcript into structured, queryable, CRM-ready notes.
 
 ## When to use
 

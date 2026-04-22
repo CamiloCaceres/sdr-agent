@@ -5,7 +5,6 @@ description: Use when a prospect names a specific competitor — "they're lookin
 
 # Build Battlecard
 
-Modeled on the "sales battle card for a prospect" workflow shape —
 NOT a generic comparison sheet. A per-prospect card anchored in what
 THAT prospect actually cares about.
 

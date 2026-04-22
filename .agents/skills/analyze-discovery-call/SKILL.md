@@ -5,9 +5,8 @@ description: Use when the user asks for a deeper post-call read-out — "how did
 
 # Analyze Discovery Call
 
-Modeled on the "sales call analysis agent" workflow shape — not just
-notes but diagnostic read-out: what went well, what didn't, what's
-missing, what to do next.
+Not just notes but a diagnostic read-out: what went well, what didn't,
+what's missing, what to do next.
 
 ## When to use
 

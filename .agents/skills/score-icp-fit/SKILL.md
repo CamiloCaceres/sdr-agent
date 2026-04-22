@@ -5,8 +5,7 @@ description: Use when the user asks "is this a fit" / "score this lead" / "quali
 
 # Score ICP Fit
 
-Modeled on the "business fit analyzer" workflow shape — structured
-go / no-go against explicit criteria, not vibes.
+Structured go / no-go against explicit criteria, not vibes.
 
 ## When to use
 
